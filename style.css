@@ -1,0 +1,26 @@
+body{
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.border{
+    border: 1px solid black;
+}
+.main{
+    margin: 0 auto ;
+    padding: 20px;
+    justify-content:space-around;
+    background-color:bisque;
+    color: black;
+    display: flex;
+    width: 400px;
+    text-align: center;
+    border-bottom: 10px solid black;
+}
+
+
+
+
+.imgprofile{
+    
+    width: 150px;
+}
